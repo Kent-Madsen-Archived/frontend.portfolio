@@ -1,5 +1,5 @@
 # default
-* text=auto
+* text=auto eol=crlf
 
 # For documentation
 *.md diff=markdown eol=crlf
