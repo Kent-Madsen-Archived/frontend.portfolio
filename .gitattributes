@@ -4,6 +4,16 @@
 # For documentation
 *.md diff=markdown eol=crlf
 
+# For code
+*.scss diff=scss eol=lf
+*.vue diff=vue eol=lf
+
+*.sh diff=sh eol=lf
+*.ps1 diff=ps1 eol=crlf
+
+# Save formats
+*.json diff=json eol=lf
+*.xml diff=xml eol=lf
 
 
 # Base
