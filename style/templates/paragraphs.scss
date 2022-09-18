@@ -1,0 +1,11 @@
+%base-paragraph
+{
+    font-family: 'Martel Sans'
+}
+
+
+p 
+{
+    @extend %base-paragraph;
+
+}

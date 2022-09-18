@@ -1,0 +1,36 @@
+%base-header-settings
+{
+    font-family: 'open sans';
+
+}
+
+
+h1 
+{
+    @extend %base-header-settings;
+
+}
+
+h2 
+{
+    @extend %base-header-settings;
+
+}
+
+h3 
+{
+    @extend %base-header-settings;
+    
+}
+
+h4 
+{
+    @extend %base-header-settings;
+    
+}
+
+h5 
+{
+    @extend %base-header-settings;
+
+}

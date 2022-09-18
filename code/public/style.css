@@ -1,0 +1,38 @@
+/** 
+  * 
+  */
+@import url("https://fonts.googleapis.com/css2?family=Martel+Sans:wght@300&family=Open+Sans:wght@300&family=Source+Sans+Pro:wght@300&display=swap");
+html {
+  display: flex;
+}
+
+/**
+  * Templates Included:
+  */
+a {
+  font-family: "open sans";
+  text-decoration: none;
+  color: #e84118;
+}
+
+a:hover {
+  color: #4cd137;
+}
+
+a:active {
+  color: #fbc531;
+}
+
+h5, h4, h3, h2, h1 {
+  font-family: "open sans";
+}
+
+p {
+  font-family: "Martel Sans";
+}
+
+/**
+  * Pages Included
+  */
+
+/*# sourceMappingURL=style.css.map */

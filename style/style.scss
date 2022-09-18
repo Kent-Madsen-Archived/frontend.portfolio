@@ -1,19 +1,15 @@
-html 
+/** 
+  * 
+  */
+html
 {
+    display: flex;
     
 }
 
-header 
-{
+@import "./imports.scss";
+@import "./templates.scss";
 
-}
-
-main 
-{
-
-}
-
-footer 
-{
-
-}
+@import "./header.scss";
+@import "./footer.scss";
+@import "./pages.scss";

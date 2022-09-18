@@ -1,0 +1,109 @@
+{
+    "socials": 
+    [   
+        {
+            "title": "",
+            "site": "linkedin",
+            "url": "https://www.linkedin.com/in/designermadsen/"
+        },
+        
+        {
+            "title": "",
+            "site": "facebook",
+            "url": "https://www.facebook.com/designermadsen"
+        },
+        
+        {
+            "title": "",
+            "site": "instagram",
+            "url": "https://www.instagram.com/designermadsen/"
+        },
+        
+        {
+            "title": "",
+            "site": "tumblr",
+            "url": "https://kent-vejrup-madsen.tumblr.com/"
+        },
+        
+        {
+            "title": "",
+            "site": "twitter",
+            "url": "https://twitter.com/Designermadsen"
+        }
+    ],
+
+    "repositories": 
+    [
+        {
+            "title": "",
+            "site": "github",
+            "url": "https://github.com/KentVejrupMadsen"
+        },
+
+        {
+            "title": "",
+            "site": "kaggle",
+            "url": "https://www.kaggle.com/kentvejrupmadsen"
+        }
+    ],
+
+    "content": 
+    [
+        {
+            "title": "",
+            "site": "deviantart",
+            "url": "https://www.deviantart.com/designermadsen"
+        },
+
+        {
+            "title": "",
+            "site": "deepdreamgenerator",
+            "url": "https://deepdreamgenerator.com/u/designermadsen"
+        },
+
+        {
+            "title": "",
+            "site": "youtube",
+            "url": "https://www.youtube.com/channel/UCKKk3v5CdelOvhFcmvJ9Biw"
+        },
+
+        {
+            "title": "",
+            "site": "midjourney",
+            "url": "https://www.midjourney.com/app/users/221568861936287744/"
+        },
+
+        {
+            "title": "",
+            "site": "wikicommons",
+            "url": "https://commons.wikimedia.org/wiki/User:Designermadsen"
+        }
+    ],
+
+    "managers": 
+    [
+        {
+            "title": "",
+            "site": "crates",
+            "url": "https://crates.io/users/kentvejrupmadsen"
+        },
+        
+        {
+            "title": "",
+            "site": "docker",
+            "url": "https://hub.docker.com/u/designermadsen"
+        },
+        
+        {
+            "title": "",
+            "site": "packagist",
+            "url": "https://packagist.org/users/designermadsen/"
+        },
+
+        {
+            "title": "",
+            "site": "npm",
+            "url": "https://www.npmjs.com/~kentvejrupmadsen"
+        }
+    ]   
+}
